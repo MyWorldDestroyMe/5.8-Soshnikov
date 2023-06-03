@@ -1,0 +1,4 @@
+D:\Projects\Evil\Evil\x64\Debug\Evil.vcxproj.AssemblyReference.cache
+D:\Projects\Evil\Evil\x64\Debug\Evil.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Evil\Evil\x64\Debug\Evil.MyForm.resources
+D:\Projects\Evil\Evil\x64\Debug\Evil.vcxproj.GenerateResource.cache
